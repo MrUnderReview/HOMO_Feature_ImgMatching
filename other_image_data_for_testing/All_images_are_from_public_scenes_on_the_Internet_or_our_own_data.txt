@@ -1,0 +1,5 @@
+All images are from public scenes on the Internet or our own collected data.
+
+These images are only for testing and paper reviewing purpose, and will not be taken as data released.
+
+The data to be released is the proposed GCZ dataset, which has been introduced in the manuscript.
